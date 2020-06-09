@@ -1,4 +1,17 @@
 {
   "name": "InstErico",
-  "displayName": "InstErico"
+  "displayName": "InstErico",
+  "expo": {
+    "name": "InstErico",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
 }
